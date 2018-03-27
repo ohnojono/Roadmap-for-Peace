@@ -28,13 +28,23 @@ www.jonosandilands.com
 
 
 ### 1. Track Design
-#### Software Requirements
+#### Design Software Requirements
 
 - **RailModeller Pro** - to open the .layout files.
 
 **RailModeller Express** (free version) may also open the files to view, but will likely not allow editing or exporting.
 
 These original designs and parts list by Jono Sandilands were sent to Thomas Hall of the Racing Room, Nottingham who supplied track hire, delivery and setup. There are some expected alterations to be made to the track by Thomas who will supply updated track specs.
+
+#### Track Spec
+We opted for modern Scalextric Digital track and cars due to the nature of the track layout, splitting into different lanes etc.
+
+The design is made with the Scalextric C7042 Digital Advanced Powerbase unit. 
+
+The experience is designed for 2 cars in use at one time. We opted for Audi TT cars - kinda familiar (more) everyday car type. 
+
+- See the parts list for an itemised parts list.
+- See below file notes for table specifications
 
 ### 2. 3D Visulisation
 #### Software Requirements
@@ -48,6 +58,7 @@ These original designs and parts list by Jono Sandilands were sent to Thomas Hal
 
 #### Printer Specifications
 
+- **Dimensions:** 2000 x 500mm
 - **Printer:** Printed.com
 - **Material:** Eco Banner (Non PVC) Material
 - **Weight:** 170gsm
@@ -60,6 +71,14 @@ These original designs and parts list by Jono Sandilands were sent to Thomas Hal
 
 - **Adobe InDesign** - layout/text changes
 - **Silhouette Studio** - Print & Cut file specific to Jono's printing setup, using a Silhouette Portrait vinyl cutter. (Use the InDesign files to send to another designer/printer)
+
+#### Printer Specifications
+
+- **Dimensions:** 16 x 3.8mm (yes tiny!)
+- **Printer:** Jono Sandilands
+- **Material:** Indoor (low tac) Printable Vinyl (Silhouette brand)
+- **Quantity:** Printed enough to fill A6 sheet of vinyl
+- **Cost:** n/a
 
 ## Table
 Table top dimensions required: **360(l) x 244(w) x 70(h) cm**
