@@ -28,7 +28,7 @@ www.jonosandilands.com
 
 
 ### 1. Track Design
-[Various track designs](Track%20Design) for consideration. The final version submitted was the *"RMFP-track-a"* version. Image exports of this track can be found [here](Image%20Exports/a).
+[Various track designs](Track%20Design) for consideration. The final version submitted was the *"RMFP-track-a"* version. Image exports of this track can be found [here](Track%20Design/Image%20Exports/a).
 #### Design Software used
 
 - **[RailModeller Pro](http://www.railmodeller.com/home-railmodeller.html)** - to open the .layout files.
